@@ -3,7 +3,7 @@ OBJS = main.o
 
 all : $(TARGET)
 
-clear :
+clean :
 	rm $(OBJS)
 
 $(TARGET) : $(OBJS)
