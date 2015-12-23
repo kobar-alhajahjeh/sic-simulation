@@ -1,0 +1,1 @@
+This project simulates SIC machine assembler and linker.
